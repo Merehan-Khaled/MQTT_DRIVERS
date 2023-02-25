@@ -2,7 +2,7 @@
  * registers.h
  *
  *  Created on: Aug 27, 2022
- *      Author: ahmad
+ *      Author: Merehan Khaled
  */
 
 #ifndef INC_REGISTERS_H_
